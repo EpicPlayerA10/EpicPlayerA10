@@ -1,6 +1,15 @@
 # <p align="center">Hi there 👋</p>
 ### <p align="center">I'm Java Developer and Minecraft Developer!</p>
 
+#### 🔨 My Skills:
+- Languages: `Java` (main), `Python`, `C#`, `JS`
+- Frameworks: `Maven`, `Gradle`, `Spring`, `Django` and other...
+
+#### 📄 Data:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicPlayerA10&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **EpicPlayerA10/EpicPlayerA10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
