@@ -1,4 +1,5 @@
-### Hi there 👋
+# <p align="center">Hi there 👋</p>
+### <p align="center">I'm Java Developer and Minecraft Developer!</p>
 
 <!--
 **EpicPlayerA10/EpicPlayerA10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
