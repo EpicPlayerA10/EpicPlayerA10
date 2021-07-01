@@ -7,4 +7,8 @@
 
 ### 📄 Data:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicPlayerA10&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EpicPlayerA10&color=green"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=EpicPlayerA10&show_icons=true&theme=great-gatsby"/>
+</p>
