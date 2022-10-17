@@ -2,7 +2,7 @@
 ### <p align="center">I'm Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
 
 ## 🔨 My Skills
-- Languages: `Java` (main), `Python`, `C#`, `JS/NodeJS`
+- Languages: `Java` (main), `Python`, `C#`, `JS/NodeJS`, `Lua`
 - Frameworks: `Maven`, `Gradle`, `Spring`, `Django` and other...
 
 ## 📄 Data
