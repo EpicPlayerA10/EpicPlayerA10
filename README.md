@@ -9,6 +9,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EpicPlayerA10&color=green"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=EpicPlayerA10&show_icons=true&theme=great-gatsby"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EpicPlayerA10&show_icons=true&theme=merko"/>
 </p>
