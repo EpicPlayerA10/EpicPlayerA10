@@ -3,7 +3,7 @@
 
 ## 🔨 My Skills
 - Languages: `Java` (main), `Python`, `C#`, `JS/NodeJS`, `TS`, `Rust`, `Lua`, `HTML`, `CSS`
-- Frameworks: `Maven`, `Gradle`, `Spring`, `Django` and other...
+- Frameworks: `Maven`, `Gradle`, `Spring`, `Django`, `Vue` and other...
 
 ## 📄 Data
 
