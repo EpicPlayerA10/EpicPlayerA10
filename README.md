@@ -2,8 +2,9 @@
 ### <p align="center">I'm Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
 
 ## 🔨 My Skills
-- Languages: `Java` (main), `Python`, `C#`, `JS/NodeJS`, `TS`, `Rust`, `Lua`, `HTML`, `CSS`
-- Frameworks: `Maven`, `Gradle`, `Spring`, `Django`, `Vue` and other...
+#### ⚗ 4 Years of programming experience<br>
+#### ⌨ Languages: `Java` (main), `Python`, `C#`, `JS/NodeJS`, `TS`, `Rust`, `Lua`, `HTML`, `CSS`<br>
+#### 🧰 Frameworks: `Maven`, `Gradle`, `Spring`, `Django`, `Vue` and other...
 
 ## 📄 Data
 
