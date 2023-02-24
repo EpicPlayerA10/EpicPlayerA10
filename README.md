@@ -7,10 +7,10 @@
 
 ### ⌨ Languages
 - In which I feel comfortable:<br>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cs&theme=dark">
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript&theme=dark">
 
 - Other that I know: <br>
-<img src="https://skillicons.dev/icons?i=rust,lua,html,css&theme=dark">
+<img src="https://skillicons.dev/icons?i=rust,lua,html,css,cs&theme=dark">
 
 ## 📄 Data
 
