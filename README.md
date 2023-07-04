@@ -1,6 +1,10 @@
 # <p align="center">Hi there 👋</p>
 ### <p align="center">I'm mainly Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
 
+## 🪙 I’m currently working on
+- [FanthPlay](https://fanthplay.pl) - Minecraft Server
+- [FanthStudios](https://fanthstudios.pl)
+
 ## 🔨 My Skills
 #### ⚗ 5 Years of programming experience
 #### 🧰 Frameworks: `Maven`, `Gradle`, `Spring`, `Django`, `Vue` and other...
