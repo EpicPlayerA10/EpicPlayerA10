@@ -7,7 +7,7 @@
 
 ## 🔨 My Skills
 #### ⚗ 5 Years of programming experience
-#### 🧰 Frameworks: `Maven`, `Gradle`, `Spring`, `Django`, `Vue` and other...
+#### 🧰 Frameworks: `Maven`, `Gradle`, `Spring`, `Django`, `Vue`, `Nuxt.js` and other...
 
 ### ⌨ Languages
 - In which I feel comfortable:<br>
