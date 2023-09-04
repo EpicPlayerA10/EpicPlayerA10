@@ -4,6 +4,8 @@
 ## 🪙 I’m currently working on
 - [FanthPlay](https://fanthplay.pl) - Minecraft Server
 - [FanthStudios](https://fanthstudios.pl)
+- [AmaiFuku](https://amaifuku.pl)
+- [mPoddany](https://mpoddany.pl)
 
 ## 🔨 My Skills
 #### ⚗ 5 Years of programming experience
