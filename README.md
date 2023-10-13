@@ -13,7 +13,7 @@
 
 ### ⌨ Languages
 - In which I feel comfortable:<br>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,rust&theme=dark">
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,rust,python&theme=dark">
 
 - Others that I know: <br>
 <img src="https://skillicons.dev/icons?i=lua,html,css,cs&theme=dark">
