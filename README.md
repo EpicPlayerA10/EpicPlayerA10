@@ -2,7 +2,7 @@
 ### <p align="center">I'm mainly Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
 
 ## 🪙 I’m currently working on
-- [FanthPlay](https://fanthplay.pl) - Minecraft Server
+- [Fantasium](https://fantasium.pl) - Minecraft Server
 - [FanthStudios](https://fanthstudios.pl)
 - [AmaiFuku](https://amaifuku.pl)
 - [mPoddany](https://mpoddany.pl)
