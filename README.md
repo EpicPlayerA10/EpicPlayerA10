@@ -3,7 +3,7 @@
 
 ## 🪙 I’m currently working on
 - [Fantasium](https://fantasium.pl) - Minecraft Server
-- [FanthStudios](https://fanthstudios.pl)
+- [FanthStudios](https://studios.fanth.pl)
 - [AmaiFuku](https://amaifuku.pl)
 - [mPoddany](https://mpoddany.pl)
 
