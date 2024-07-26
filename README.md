@@ -4,8 +4,8 @@
 ## 🪙 I’m currently working on
 - [FanthCloud](https://cloud.fanth.pl) - Minecraft Hosting
 - [Fantasium](https://fantasium.pl) - Minecraft Server
+- [Fanth](https://fanth.pl)
 - [FanthStudios](https://studios.fanth.pl)
-- [AmaiFuku](https://amaifuku.pl)
 - [mPoddany](https://mpoddany.pl)
 
 ## 🔨 My Skills
