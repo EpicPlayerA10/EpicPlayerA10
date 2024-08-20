@@ -1,28 +1,30 @@
 # <p align="center">Hi there 👋</p>
-### <p align="center">I'm mainly Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
+### <p align="center">I'm primarily Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
 
 ## 🪙 I’m currently working on
-- [FanthCloud](https://cloud.fanth.pl) - Minecraft Hosting
-- [Fantasium](https://fantasium.pl) - Minecraft Server
-- [Fanth](https://fanth.pl)
-- [FanthStudios](https://studios.fanth.pl)
-- [mPoddany](https://mpoddany.pl)
+- 🌐 [**FanthCloud**](https://cloud.fanth.pl) - Minecraft Hosting - mainly for videos for youtubers
+- [**Fantasium**](https://fantasium.pl) - Minecraft Server
+- [**Fanth**](https://fanth.pl)
+- [**FanthStudios**](https://studios.fanth.pl)
 
 ## 🔨 My Skills
-#### ⚗ 5 Years of programming experience
-#### 🧰 Frameworks: `Maven`, `Gradle`, `Spring`, `Django`, `Vue`, `Nuxt.js` and other...
-
 ### ⌨ Languages
-- In which I feel comfortable:<br>
+- In which I feel comfortable:
+
 <img src="https://skillicons.dev/icons?i=java,typescript,javascript,rust,python&theme=dark">
 
-- Others that I know: <br>
+- Others that I know:
+
 <img src="https://skillicons.dev/icons?i=lua,html,css,cs&theme=dark">
 
-## 📄 Data
+### ⚙ Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=gradle,maven,django,vue,nuxtjs,react,nextjs&theme=dark" alt="Frameworks and tools"/>
+
+_...and other that i forgot to write_
+
+## 📄 Github Stats
 
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=EpicPlayerA10&color=green"/></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=EpicPlayerA10&show_icons=true&theme=merko"/></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicPlayerA10/EpicPlayerA10/output/github-contribution-grid-snake-dark.svg" />
