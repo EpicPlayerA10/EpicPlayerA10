@@ -1,6 +1,10 @@
 # <p align="center">Hi there 👋</p>
 ### <p align="center">I'm primarily Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
 
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
 ## 🪙 I’m currently working on
 - 🌐 [**FanthCloud**](https://cloud.fanth.pl) - Minecraft Hosting - mainly for videos for youtubers
 - [**Fantasium**](https://fantasium.pl) - Minecraft Server
