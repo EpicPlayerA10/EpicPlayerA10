@@ -5,7 +5,7 @@
 - 🌐 [**FanthCloud**](https://cloud.fanth.pl) - Minecraft Hosting - mainly for videos for youtubers
 - [**Fantasium**](https://fantasium.pl) - Minecraft Server
 - [**Fanth**](https://fanth.pl)
-- [**FanthStudios**](https://studios.fanth.pl)
+- [**EBIISU**](https://ebiisu.pl)
 
 ## 🔨 My Skills
 ### ⌨ Languages
