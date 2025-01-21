@@ -3,9 +3,9 @@
 
 ## 🪙 I’m currently working on
 - 🌐 [**FanthCloud**](https://cloud.fanth.pl) - Minecraft Hosting - mainly for videos for youtubers
+- 🔥 [**EBIISU**](https://ebiisu.pl)
 - [**Fantasium**](https://fantasium.pl) - Minecraft Server
 - [**Fanth**](https://fanth.pl)
-- [**EBIISU**](https://ebiisu.pl)
 
 ## 🔨 My Skills
 ### ⌨ Languages
