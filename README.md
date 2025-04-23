@@ -15,10 +15,10 @@
 
 - Others that I know:
 
-<img src="https://skillicons.dev/icons?i=lua,html,css,cs&theme=dark">
+<img src="https://skillicons.dev/icons?i=lua,html,css,cs,php&theme=dark">
 
 ### ⚙ Frameworks & Technologies
-<img src="https://skillicons.dev/icons?i=gradle,maven,django,vue,nuxtjs,react,nextjs&theme=dark" alt="Frameworks and tools"/>
+<img src="https://skillicons.dev/icons?i=gradle,maven,django,vue,nuxtjs,react,nextjs,tailwind,cloudflare,docker&theme=dark" alt="Frameworks and tools"/>
 
 _...and other that i forgot to write_
 
