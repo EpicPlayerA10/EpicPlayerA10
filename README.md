@@ -4,6 +4,7 @@
 ## 🪙 I’m currently working on
 - 🌐 [**RaidVM**](https://www.raidvm.com/) - Minecraft Hosting - mainly for videos for youtubers
 - 🔥 [**EBIISU**](https://ebiisu.pl)
+- [**Diobfuscator**](https://github.com/narumii/Deobfuscator) - A deobfuscator for java
 - [**Fantasium**](https://fantasium.pl) - Minecraft Server
 - [**Fanth**](https://fanth.pl)
 
