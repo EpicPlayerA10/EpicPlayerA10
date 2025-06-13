@@ -2,11 +2,10 @@
 ### <p align="center">I'm primarily Java Developer and Minecraft Developer! I'm also interested in Minecraft security</p>
 
 ## 🪙 I’m currently working on
+- 🔥 [**Fanth**](https://fanth.pl) - The IT Company
 - 🌐 [**RaidVM**](https://www.raidvm.com/) - Minecraft Hosting - mainly for videos for youtubers
-- 🔥 [**EBIISU**](https://ebiisu.pl)
 - [**Diobfuscator**](https://github.com/narumii/Deobfuscator) - A deobfuscator for java
 - [**Fantasium**](https://fantasium.pl) - Minecraft Server
-- [**Fanth**](https://fanth.pl)
 
 ## 🔨 My Skills
 ### ⌨ Languages
