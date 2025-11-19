@@ -15,7 +15,7 @@
 
 - Others that I know:
 
-<img src="https://skillicons.dev/icons?i=lua,html,css,cs,php&theme=dark">
+<img src="https://skillicons.dev/icons?i=go,lua,html,css,cs,php&theme=dark">
 
 ### ⚙ Frameworks & Technologies
 <img src="https://skillicons.dev/icons?i=gradle,maven,django,vue,nuxtjs,react,nextjs,tailwind,cloudflare,docker&theme=dark" alt="Frameworks and tools"/>
