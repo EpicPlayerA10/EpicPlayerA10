@@ -5,7 +5,6 @@
 - 🔥 [**Fanth**](https://fanth.pl) - The IT Company
 - 🌐 [**RaidVM**](https://www.raidvm.com/) - Minecraft Hosting - mainly for youtube creators
 - [**Diobfuscator**](https://github.com/narumii/Deobfuscator) - A deobfuscator for java
-- [**Fantasium**](https://fantasium.pl) - Minecraft Server
 
 ## 🔨 My Skills
 ### ⌨ Languages
