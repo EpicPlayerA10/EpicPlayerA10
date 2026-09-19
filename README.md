@@ -10,14 +10,23 @@
 ### ⌨ Languages
 - In which I feel comfortable:
 
-<img src="https://skillicons.dev/icons?i=java,typescript,javascript,rust,python&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,typescript,javascript,rust,python&theme=dark&titles=true">
 
 - Others that I know:
 
-<img src="https://skillicons.dev/icons?i=go,lua,html,css,cs,php&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go,lua,html,css,cs,php&theme=dark&titles=true">
 
-### ⚙ Frameworks & Technologies
-<img src="https://skillicons.dev/icons?i=gradle,maven,django,vue,nuxtjs,react,nextjs,tailwind,cloudflare,docker&theme=dark" alt="Frameworks and tools"/>
+### Frameworks & Technologies
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gradle,maven,django,vue,nuxtjs,react,nextjs,tailwind,docker,hono,workers&theme=dark&titles=true" alt="Frameworks"/>
+
+### Virtualization & OS
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,ubuntu,kali,windows,proxmox,virtualbox,vmwareworkstation&theme=dark&titles=true" alt="OS"/>
+
+### IDEs & Tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=idea,webstorm,pycharm,goland,datagrip,phpstorm,androidstudio,vscode,visualstudio&theme=dark&titles=true" alt="ides"/>
+
+### DBs & Cloud
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlite,redis,rabbitmq,cloudflare&theme=dark&titles=true" alt="dbs and cloud"/>
 
 _...and other that i forgot to write_
 
